@@ -60,7 +60,7 @@ Building high-performance, scalable systems and innovative AI solutions.
 
 ## 🏆 Fun Fact & Motto
 
-> “I enjoy solving algorithmic challenges and turning ideas into full-stack projects.”
+> “I enjoy solving algorithmic challenges.”
 >
 > **Building today what others will need tomorrow.**
 
